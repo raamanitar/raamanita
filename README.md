@@ -2,7 +2,7 @@
 <!---
 Possuo conhecimento em HTML, CSS e Python.
 --->
-📖 - Estou estudando Cibersegurança na EBAC e Defesa Cibernética na Estácio. 
+📖 - Estudante de Cibersegurança na EBAC e Defesa Cibernética na Estácio. 
 
 🛡️ - Atualmente, estou me dedicando aos estudos com o objetivo de seguir carreira na área de cibersegurança.
 <!---
